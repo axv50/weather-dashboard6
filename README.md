@@ -1,4 +1,13 @@
-# module-6-challenge
+title: Weather Dashboard
+author: Alexis Vega
+Worked with Randolph Davis
+
+module-6-challenge
+
+git hub repo:
+https://github.com/axv50/weather-dashboard6
+Working site:
+ https://axv50.github.io/weather-dashboard6/
 
 GIVEN a weather dashboard with form inputs
 WHEN I search for a city
@@ -12,4 +21,3 @@ THEN I am presented with a 5-day forecast that displays the date, an icon repres
 WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 
-I worked with Alexis Vega
